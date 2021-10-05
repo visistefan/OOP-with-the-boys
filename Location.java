@@ -39,7 +39,7 @@ public class Location {
     }
     
  // public double toString(){
-     double a="";
+    // double a="";
    
      //  if (this.addressLine1.length() > 0) {
       //     a=this.name;
