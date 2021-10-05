@@ -38,6 +38,31 @@ public class Location {
         return this.latitude >= 0;
     }
     
+ // public double toString(){
+     double a="";
+   
+     //  if (this.addressLine1.length() > 0) {
+      //     a=this.name;
+      //}         }
+  // public toString(){
+      // return this.name;
+      // return this.latitude;
+       //return this.longitude;
+   //}
+   //   String b= "";
+      
+    // if (this.name.length()>0){
+      //  b=b+ this.name + " "+"(" + this.latitude + "," +" "+  +this.longitude + ")";
+     // }
+     // if (this.latitude.length() > 0){
+     //   b=b+ ;
+    //  }
+       //if (this.longitude.length() > 0){
+      //b=b+;
+       //}
+     //  return b;
+    //  }
+
 
    
   
